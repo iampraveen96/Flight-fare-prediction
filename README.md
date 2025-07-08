@@ -1,10 +1,10 @@
 # Flight Fare Prediction 
 
 ## Overview
-Flight fares are highly dynamic and depend on various factors such as airline, source, destination, departure time, and duration. This project aims to build a machine learning model that can accurately predict flight ticket prices using historical data.
+Flight fares are highly dynamic and depend on various factors such as airline, source, destination, departure time and duration. This project aims to build a machine learning model that can accurately predict flight ticket prices using historical data.
 
 ## Problem Statement
-Airline ticket prices fluctuate based on numerous variables like travel time, duration, airline brand, and holidays. Predicting fares in advance can help travelers save both money and time. The goal is to use machine learning to forecast flight ticket prices using structured historical data.
+Airline ticket prices fluctuate based on numerous variables like travel time, duration, airline brand and holidays. Predicting fares in advance can help travelers save both money and time. The goal is to use machine learning to forecast flight ticket prices using structured historical data.
 
 ## Dataset
 The dataset used in this project is publicly available on Kaggle:  
