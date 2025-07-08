@@ -1,4 +1,4 @@
-# Flight Fare Prediction ✈️💰
+# Flight Fare Prediction 
 
 ## Overview
 Flight fares are highly dynamic and depend on various factors such as airline, source, destination, departure time, and duration. This project aims to build a machine learning model that can accurately predict flight ticket prices using historical data.
@@ -10,7 +10,7 @@ Airline ticket prices fluctuate based on numerous variables like travel time, du
 The dataset used in this project is publicly available on Kaggle:  
 🔗 [Flight Fare Prediction - Kaggle Dataset](https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh)
 
-## Tech Stack and Tools 🛠️
+## Tech Stack and Tools
 - **Python**
 - **Pandas, NumPy** – Data manipulation and analysis
 - **Matplotlib, Seaborn** – Data visualization
@@ -42,3 +42,12 @@ The dataset used in this project is publicly available on Kaggle:
    ```bash
    git clone https://github.com/your-username/flight-fare-prediction.git
    cd flight-fare-prediction
+   
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the notebook:
+   ```bash
+   jupyter notebook flight_fare_prediction.ipynb
+
